@@ -4,3 +4,40 @@
     font-style: italic;
   
 }
+.book-demo{
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+}
+.frist-image{
+    width: 350px;
+}
+.my-image{
+    width: 30px;
+    border-radius: 50%;
+}
+.about-section{
+  padding: 10px 20px;
+  border-radius: 30px;
+}
+.sittig-image{
+    width: 175px;
+    border-radius: 10px;
+    
+}
+.redius{
+    border-radius: 20px;
+}
+.passion-img{
+    padding: 15px;
+   
+
+    
+}
+.passion-img:hover{
+    background-color:#f3f0ee;
+    cursor: pointer;
+    
+
+}
+         
